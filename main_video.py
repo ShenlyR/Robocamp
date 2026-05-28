@@ -5,7 +5,7 @@ from ultralytics import YOLO
 import datetime
 
 # ---------- Konfigurasi ----------
-MODEL_PATH = os.path.join("models", "bola.pt")
+MODEL_PATH = os.path.join("models_asv_2024", "bola.pt")
 VIDEO_PATH = os.path.join("video", "edit_perjalanan_kapal.mp4")
 CONF_THRESH = 0.35
 
